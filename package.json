@@ -13,7 +13,7 @@
     "@types/node": "^18.15.11",
     "@vitest/coverage-v8": "^2.0.5",
     "benchmark": "^2.1.4",
-    "eslint": "^8.50.0",
+    "eslint": "^9.16.0",
     "generate-changelog": "^1.8.0",
     "husky": "^4.3.8",
     "lint-staged": "^15.0.2",
