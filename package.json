@@ -24,7 +24,7 @@
     "typedoc": "0.28.14",
     "typedoc-plugin-markdown": "^4.0.3",
     "typescript": "^5.2.2",
-    "vitest": "^3.0.4"
+    "vitest": "^4.0.6"
   },
   "files": [
     "dist",
