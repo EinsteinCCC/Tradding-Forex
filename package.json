@@ -23,7 +23,7 @@
     "ts-node": "^10.9.1",
     "typedoc": "0.28.17",
     "typedoc-plugin-markdown": "^4.0.3",
-    "typescript": "^5.2.2",
+    "typescript": "^6.0.2",
     "vitest": "^4.0.6"
   },
   "files": [
